@@ -1,0 +1,9 @@
+{
+	"name": "mishuepam",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f0e5f7a-08c3-4663-be2b-f3fa50d4ef84",
+		"tenantId": "d4783759-237f-40c0-8503-af85d8b123e0"
+	}
+}
